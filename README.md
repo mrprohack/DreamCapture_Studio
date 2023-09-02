@@ -2,6 +2,8 @@
 
 Automate the process of training a LORA model on your images using DreamBooth with ease! This README will guide you through the setup and usage of this project.
 
+**Access your Colab notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJ0DUBGQVQA4lnSC1-QpdcTWxYg4EpGo?usp=sharing)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -42,8 +44,6 @@ The bot will reply with the target_user_id. You'll need this user ID to interact
 ## Running Your Project
 
 Execute the code cells in Colab by using `Runtime > Run all` or individual cells in your Colab environment. This will initiate the training process using your images and the defined prompt.
-
-**Access your Colab notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJ0DUBGQVQA4lnSC1-QpdcTWxYg4EpGo?usp=sharing)
 
 ## Support and Feedback
 
