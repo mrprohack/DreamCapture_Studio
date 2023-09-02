@@ -2,7 +2,9 @@
 
 Automate the process of training a LORA model on your images using DreamBooth with ease! This README will guide you through the setup and usage of this project.
 
-**Access your Colab notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJ0DUBGQVQA4lnSC1-QpdcTWxYg4EpGo?usp=sharing)
+**Access your Colab notebook for generating images using an old LORA file:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yWbvQcDlteAkEZFWLnAYzKSxI7xtmDC1?usp=sharing)
+
+**Access your Colab notebook for training a LORA model:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mJ0DUBGQVQA4lnSC1-QpdcTWxYg4EpGo?usp=sharing)
 
 ## Table of Contents
 
